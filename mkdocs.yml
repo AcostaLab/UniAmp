@@ -1,0 +1,14 @@
+site_name: UniAmp
+docs_dir: docs_site
+
+theme: readthedocs
+
+nav:
+  - Home: index.md
+  - Getting Started:
+    - Installation: getting_started/installation.md
+    - Dependencies: getting_started/dependencies.md
+  - Usage:
+    - Usage: usage/usage.md
+  - Citation:
+    - Citation: citation/citation.md
