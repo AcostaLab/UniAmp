@@ -12,10 +12,10 @@ The UniAmp pipeline can be conceptually split into 4 parts:
 
 
 # Installation
-Clone the repository:
+Clone the repository:<br>
 `git clone https://github.com/kenscripts/UniAmp.git`
 
-Run the setup script and specify UniAmp path:
+Run the setup script and specify UniAmp path:<br>
 `source <path_to_UniAmp>/UniAmp/setup_uniamp.sh <path_to_UniAmp>`
 
 
