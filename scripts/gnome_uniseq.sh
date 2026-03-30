@@ -121,7 +121,7 @@ done
 ##################################################
 
 sleep 1
-printf "\nFinding unique sequences in target genome.\n"
+printf "\n\nFinding unique sequences in target genome.\n"
 
 # build uni.fasta and uni.bed files
 build_uni_files.sh \
