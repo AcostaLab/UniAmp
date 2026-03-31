@@ -39,9 +39,16 @@ fi
 PB_HTML=$1
 QUERY_PATHS=$2
 TARGET_PATH=$3
-cat $QUERY_PATHS $TARGET_PATH > $GNOME_PATHS
 OUT_DIR=${4%/}
 OUT_NAME=$(echo $PB_HTML | xargs -n 1 basename | rev | cut -d"." -f2- | rev)
+
+##################################################
+# Temporary Intermediate Files
+##################################################
+
+GNOME_PATHS="$OUT_DIR/uni_pcr.tmp"
+cat $QUERY_PATHS > $GNOME_PATHS;
+echo $TARGET_PATH >> $GNOME_PATHS;
 
 ##################################################
 # Outputs
@@ -72,7 +79,7 @@ $PB_HTML \
 ##################################################
 
 sleep 1
-printf "\n>>> Performing in-silico PCR on genomes in $(echo $GNOME_PATHS | xargs -n 1 basename) (run_isPCR.sh):\n\n"
+printf "\n>>> Performing in-silico PCR on following genomes (run_isPCR.sh):\n\n"
 sleep 1
 
 # generate primer tsv file
@@ -83,6 +90,7 @@ tail -n +2 \
 
 # find amplicons in specified genomes
 # generates *.ispcr.tsv file
+# removes *tmp* files
 run_isPCR.sh \
 $PB_PRIMERS \
 $GNOME_PATHS \
