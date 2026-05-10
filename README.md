@@ -1,7 +1,12 @@
-<p align="center">
-  <img src="docs/uniamp_logo_v8.svg" width="300" alt="UniAmp logo"/>
-  <p align="center">A computational pipeline to generate PCR primers specific to a target genome.</p>
-</p>
+<table border="0" cellpadding="10" cellspacing="0">
+  <tr>
+    <td valign="middle"><img src="docs/uniamp_logo_v8.svg" width="200" alt="UniAmp logo"/></td>
+    <td valign="middle">
+      <h1>UniAmp</h1>
+      <p>A computational pipeline to generate PCR primers specific to a target genome.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
