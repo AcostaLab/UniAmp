@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="docs/uniamp_logo_v8.svg" width="220" alt="UniAmp logo"/>
+</p>
+
 # Overview
 UniAmp (Unique Amplicon) is a computational pipeline to generate PCR primers specific to a target genome.<br>
 <br>
