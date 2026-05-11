@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/uniamp_logo_v8.svg" width="400" alt="UniAmp logo"/>
+  <img src="docs/uniamp_logo_v8b.svg" width="400" alt="UniAmp logo"/>
 </p>
 
 ---
