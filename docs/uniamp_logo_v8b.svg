@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 290 288">
+  <!-- Generator: Adobe Illustrator 29.8.6, SVG Export Plug-In . SVG Version: 2.1.1 Build 1)  -->
+  <defs>
+    <style>
+      .st0 {
+        stroke-width: 4.95px;
+      }
+
+      .st0, .st1, .st2, .st3 {
+        opacity: .55;
+      }
+
+      .st0, .st1, .st2, .st3, .st4, .st5, .st6 {
+        isolation: isolate;
+      }
+
+      .st0, .st1, .st2, .st3, .st7, .st8, .st9 {
+        fill: none;
+        stroke-miterlimit: 3.6;
+      }
+
+      .st0, .st1, .st2, .st3, .st8, .st9 {
+        stroke: #e9c46a;
+        stroke-linecap: round;
+      }
+
+      .st1 {
+        stroke-width: 2.52px;
+      }
+
+      .st2 {
+        stroke-width: 3.6px;
+      }
+
+      .st3 {
+        stroke-width: 1.62px;
+      }
+
+      .st7 {
+        stroke: #1a8a80;
+        stroke-width: 8.1px;
+      }
+
+      .st8 {
+        stroke-width: 11.7px;
+      }
+
+      .st5 {
+        fill: #e9c46a;
+      }
+
+      .st5, .st6 {
+        font-family: Helvetica-Bold, Helvetica;
+        font-size: 32.4px;
+        font-weight: 700;
+      }
+
+      .st9 {
+        stroke-width: 3.15px;
+      }
+
+      .st6 {
+        fill: #1a8a80;
+      }
+    </style>
+  </defs>
+  <circle class="st7" cx="120" cy="182" r="97.2"/>
+  <path class="st8" d="M145.2,88.4c24.99,6.51,46.36,22.7,59.4,45"/>
+  <line class="st9" x1="143.4" y1="94.7" x2="147" y2="81.2"/>
+  <line class="st9" x1="198.3" y1="137" x2="210.9" y2="129.8"/>
+  <path class="st0" d="M150.6,68.6c30.06,8.11,55.65,27.87,71.1,54.9"/>
+  <path class="st2" d="M156,47.9c35.37,9.68,65.47,32.98,83.7,64.8"/>
+  <path class="st1" d="M161.4,27.2c41.02,11.03,75.99,37.9,97.2,74.7"/>
+  <path class="st3" d="M166.8,6.5c46.67,12.38,86.5,42.82,110.7,84.6"/>
+  <g class="st4">
+    <text class="st6" transform="translate(57.91 191.9)"><tspan x="0" y="0">Uni</tspan></text>
+    <text class="st5" transform="translate(110.1 191.9)"><tspan x="0" y="0">Amp</tspan></text>
+  </g>
+</svg>
